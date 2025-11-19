@@ -42,7 +42,7 @@ Actualmente me encuentro en búsqueda de mi primera oportunidad laboral como des
 
 ## ✅ Disponibilidad
 
-Disponible para posiciones **Junior/Trainee** en desarrollo Full Stack o Backend.
+Disponible para posiciones **Junior** en desarrollo Full Stack o Backend.
 
 ## 🌐 Socials
 
