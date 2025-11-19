@@ -53,6 +53,6 @@ Disponible para posiciones **Junior/Trainee** en desarrollo Full Stack o Backend
 
 ## 📊 GitHub Stats:
 
-[![Estadísticas de Neuville-Cloud](https://github-readme-stats.vercel.app/api?username=Neuville-Cloud&show_icons=true&theme=dracula&count_private=true)](https://github.com/Neuville-Cloud)
+[![Estadísticas de Neuville-Cloud](https://github-readme-stats.vercel.app/api?username=neuville-Cloud&show_icons=true&theme=dracula&count_private=true)](https://github.com/neuville-Cloud)
 
-[![Lenguajes Más Usados por Neuville-Cloud](https://github-readme-stats.vercel.app/api/top-langs/?username=Neuville-Cloud&layout=compact&theme=dracula)](https://github.com/Neuville-Cloud)
+[![Lenguajes Más Usados por Neuville-Cloud](https://github-readme-stats.vercel.app/api/top-langs/?username=neuville-Cloud&layout=compact&theme=dracula)](https://github.com/neuville-Cloud)
